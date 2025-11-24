@@ -198,6 +198,3 @@ Credits:
 If you find bugs or want to request features, please open an **Issue** in this repository or contact the maintainer.
 
 ---
-
-**Need a ZIP of the theme, or a quick `functions.php` snippet for demo import / required plugins?**
-Tell me which one and I will generate it for you.
